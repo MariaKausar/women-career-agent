@@ -53,5 +53,5 @@ and that you can build something meaningful from day one. 💪
 
 ## 🛠️ Built With
 
-- Python 3
+- Python 3  
 - No external libraries needed — runs out of the box!
