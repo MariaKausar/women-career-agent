@@ -45,12 +45,6 @@ Once the agent is running, type any of these:
 
 Built by **Maria Kausar** — MSc Artificial Intelligence Graduate.
 
-Created during the **Fuzzy Labs Women in Tech Hackathon 2026** in Manchester
-as a first AI agent project.
-
-This agent was built to show that women belong in tech —
-and that you can build something meaningful from day one. 💪
-
 ## 🛠️ Built With
 
 - Python 3  
