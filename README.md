@@ -4,7 +4,7 @@ A simple AI agent built to help women with job hunting and career progress.
 Built with Python as a first AI agent project.
 
 ## 💡 What It Does
-
+  
 This agent helps women navigate their career journey by providing:
 
 - 📄 **CV & Resume Tips** — How to write a strong CV that gets noticed
